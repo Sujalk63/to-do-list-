@@ -111,6 +111,10 @@ main{
 
 }
 
+.content{
+    flex: 1 1 0%;
+}
+
 #tasks .task .content .text
 {
     color: var(--light);
